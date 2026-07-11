@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "637515594302",
+    "firebase_url": "https://replyos-af4d3-default-rtdb.firebaseio.com",
+    "project_id": "replyos-af4d3",
+    "storage_bucket": "replyos-af4d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637515594302:android:2dc67974fb815062b52f6f",
+        "android_client_info": {
+          "package_name": "com.replyos.replyos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637515594302-xxxxx.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.replyos.replyos",
+            "certificate_hash": "sha1_hash_placeholder"
+          }
+        },
+        {
+          "client_id": "637515594302-xxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT6mK57wM0jdKNFtSGbzVohh2dcntV0Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
